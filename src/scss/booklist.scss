@@ -1,0 +1,22 @@
+ul {
+    padding-left: 20px;
+    margin-top: 2px;
+}
+
+li {
+    list-style: none;
+}
+
+.book, .folderbox, .note {
+    line-height: 22px;
+}
+.booklist {
+    width: 300px;
+    padding-left: 20px;
+
+
+    .booklist-title {
+        padding-left: 20px;
+        font-weight: bold;
+    }
+}
