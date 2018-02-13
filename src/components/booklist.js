@@ -10,7 +10,15 @@ let notebooks = [
         id: 1,
         name: "notebook1",
         folders: [],
-        notes: []
+        notes: [
+            {
+                id: 2,
+                name: "note02-01-01",
+                createTime: "2017-12-1 12:00",
+                lastChange: "2017-12-1 22:00",
+                desc: "wuwuwu,note2"
+            }
+        ]
     },
     {
         id: 2,
